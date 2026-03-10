@@ -1,6 +1,6 @@
 # My Class Project for CS351
 
-++KhaNguyen.github.io++
+++Timer Counting Down++
 
 Timer counting down to zero from user input.
 
